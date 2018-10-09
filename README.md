@@ -1,5 +1,5 @@
 # pythuino :boom:
-a simple way to get arduino data with python :heart_eyes: 
+a simple way to get arduino data using python :heart_eyes: 
 
 # requirements : 
 - Arduino Uno board
