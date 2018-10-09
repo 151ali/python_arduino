@@ -1,4 +1,4 @@
-# pythuino :boom:
+# python :boom: Arduino
 a simple way to get arduino data using python :heart_eyes: 
 
 # requirements : 
